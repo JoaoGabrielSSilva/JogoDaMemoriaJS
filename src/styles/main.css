@@ -84,6 +84,6 @@ h2 {
     transform: rotateY(0deg);
 }
 
-.boxMatch::after{
+.boxMatch::after, .boxMatch::after{
     transform: rotateY(180deg);
 }
